@@ -1,5 +1,5 @@
 # Final thesis program
-Using python to automatically updates the SRAC input file. 
+Using python to automatically updates the SRAC input file (TAiterCopy4.sh). 
 
 SRAC input file reads the power density data from zBRNPWRLVL file.
 
